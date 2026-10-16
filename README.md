@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ankit Rastogi 👋
 
-<!--
-**ankitrstogi/ankitrstogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PGDM student (Finance & Marketing, 2026–28) at Jaipuria School of Business, Indirapuram.
 
-Here are some ideas to get you started:
+## About me
+- B.Com graduate from Varanasi
+- ~18 months of experience in property valuation operations, coordinating with 30+ banks and NBFCs
+- Hands-on with finance documentation, billing and MIS reporting
+- Financial Analyst certified
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+This is my 2-year portfolio. I'll upload my real work:
+- Finance models and analysis
+- Marketing case studies
+- Data projects and dashboards
+
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/ankit-rastogi11
